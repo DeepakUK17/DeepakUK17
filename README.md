@@ -1,25 +1,18 @@
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://github.com/DeepakUK17/DeepakUK17/blob/main/1726578925071.jpg?raw=true" alt="Deepak U K Banner" width="100%" style="border-radius:15px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deepak%20U.%20K.&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20ISTE%20Student%20Chapter%20Secretary&descAlignY=60&descSize=22" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hey there, I'm Deepak U. K.
-</h1>
-
+<!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://deepakuk.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver;VibeCoder+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=50&lines=Building+Ideas+That+Vibe+With+Innovation+%E2%9A%A1;Crafting+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Solo+Hackathon+Winner+🏆" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DeepakUK17"><img src="https://komarev.com/ghpvc/?username=DeepakUK17&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="DeepakUK17" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="35" /> About Me
 
 * 🎓 Currently pursuing my **B.Tech in Artificial Intelligence and Data Science (AIDS)** at **Karpagam Academy of Higher Education**.
 * 🚀 Proudly serving as the **Secretary of the ISTE Student Chapter**, organizing hackathons & workshops.
@@ -29,7 +22,7 @@
 
 ---
 
-### 🏆 Top Achievements
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> Top Achievements
 
 <table align="center">
   <tr>
@@ -50,7 +43,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" /> Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,django,html,css,firebase,mysql,supabase,git,github,vscode,figma,arduino&perline=7" />
@@ -58,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeepakUK17&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="DeepakUK17 Trophies" />
@@ -74,7 +67,7 @@
 
 ---
 
-### 🐍 Contribution Activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> Contribution Activity
 
 <p align="center">
   <picture>
@@ -86,16 +79,17 @@
 
 ---
 
-### 🤝 Let's Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" /> Let's Connect
 
 <p align="center">
-  <a href="https://deepakuk.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://deepakuk.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00FF7F" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ukdeepak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/DeepakUK17" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:dileepdeepakudaya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/9345211194" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
+<!-- Animated Footer Wave -->
 <p align="center">
-  <i>"Building ideas that vibe with innovation."</i> ⚡
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
