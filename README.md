@@ -1,12 +1,11 @@
-<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deepak%20U.%20K.&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20ISTE%20Student%20Chapter%20Secretary&descAlignY=60&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deepak+U.+K.&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full+Stack+Developer+|+AI+and+ML+Enthusiast+|+ISTE+Student+Chapter+Secretary&descAlignY=60&descSize=22" width="100%" />
 </p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
   <a href="https://deepakuk.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=50&lines=Building+Ideas+That+Vibe+With+Innovation+%E2%9A%A1;Crafting+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Solo+Hackathon+Winner+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&height=50&lines=Building+Ideas+That+Vibe+With+Innovation;Crafting+Scalable+Web+Applications;Exploring+Artificial+Intelligence;Solo+Hackathon+Winner" alt="Typing SVG" />
   </a>
 </p>
 
